@@ -15,3 +15,7 @@ SogangSeat
 [AFNetworking](https://github.com/AFNetworking/AFNetworking)과 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)가 설치되기를 기다립니다.
 
 설치가 완료되면 SogangSeat.xcworkspace를 열고 컴파일을 하면 됩니다.
+
+## 안드로이드 앱
+
+이 앱은 sunsal의 [서강대 열람실](https://play.google.com/store/apps/details?id=com.Sunsal.sogangseat)앱의 아이폰 버젼입니다.
