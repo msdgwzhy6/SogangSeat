@@ -12,4 +12,6 @@ SogangSeat
 
 을 입력합니다.
 
-이제 SogangSeat.xcworkspace를 열고 컴파일을 하면 됩니다.
+[AFNetworking](https://github.com/AFNetworking/AFNetworking)과 [MBProgressHUD](https://github.com/jdg/MBProgressHUD)가 설치되기를 기다립니다.
+
+설치가 완료되면 SogangSeat.xcworkspace를 열고 컴파일을 하면 됩니다.
