@@ -1,5 +1,5 @@
 //
-//  SecondViewController.h
+//  CurrentViewController.h
 //  SogangSeat
 //
 //  Created by Baekjoon Choi on 6/10/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface SecondViewController : UIViewController
+@interface CurrentViewController : UITableViewController
 
 @end

@@ -1,5 +1,5 @@
 //
-//  FirstViewController.h
+//  WebViewController.h
 //  SogangSeat
 //
 //  Created by Baekjoon Choi on 6/10/14.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface FirstViewController : UIViewController
+@interface WebViewController : UIViewController
+
+@property (nonatomic, strong) NSString *url;
 
 @end
